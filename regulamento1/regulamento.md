@@ -1,10 +1,13 @@
 # 📗 REGULAMENTO
 
-<details>
+{% content-ref url="1-regras-gerais.md" %}
+[1-regras-gerais.md](1-regras-gerais.md)
+{% endcontent-ref %}
 
-<summary><a href="1-regras-gerais.md" class="button primary medium">1 - REGRAS GERAIS</a></summary>
+{% content-ref url="2-sistema-de-diamantes.md" %}
+[2-sistema-de-diamantes.md](2-sistema-de-diamantes.md)
+{% endcontent-ref %}
 
-
-
-</details>
-
+{% content-ref url="3-amor-a-vida.md" %}
+[3-amor-a-vida.md](3-amor-a-vida.md)
+{% endcontent-ref %}
