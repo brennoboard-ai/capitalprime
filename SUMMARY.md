@@ -2,8 +2,9 @@
 
 * [Introdução](README.md)
 
-## 📗 REGULAMENTO 1 <a href="#regulamento1" id="regulamento1"></a>
+## 📗 REGULAMENTO <a href="#regulamento1" id="regulamento1"></a>
 
+* [📗 REGULAMENTO](regulamento1/regulamento.md)
 * [1 - Regras Gerais](regulamento1/1-regras-gerais.md)
 * [2 - Sistema de Diamantes](regulamento1/2-sistema-de-diamantes.md)
 * [3 - Amor à Vida](regulamento1/3-amor-a-vida.md)
